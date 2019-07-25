@@ -1,0 +1,49 @@
+/* Css for ul and li tags-- */
+/* ul{
+    list-style-type:none;
+    border:1px solid black;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 0px;
+}
+li{
+    padding: 15px;
+    border-bottom: 1px solid black;
+    background-color: #545454;
+}
+i{
+    font-size: 25px;   
+    color: white; 
+}
+
+li:hover{
+    background-color: #000000;
+    cursor: pointer;
+}
+li.active{
+    background-color: #53AF50;
+} */
+
+/* CSS for div and a tags-- */
+div{
+    display: inline-block;
+    border: 1px solid black;
+    border-bottom: 0px;
+}
+a{
+    display: block;
+    padding: 15px;
+    border-bottom: 1px solid black;
+    background-color: #545454
+}
+i{
+    font-size: 20px;
+    color: white;
+}
+a:hover{
+    background-color: black;
+}
+a.active{
+    background-color: #53AF50
+}
